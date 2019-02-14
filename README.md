@@ -16,9 +16,13 @@ process shown in the MOV file also archived in here.
 2. Remaining steps are carried out on a chapter-by-chapter basis:
 
 	a. Open up the \*-TR.txt and \*-CT.txt files, and place them into the appropriate columns of 'STANDARD CHAPTER LAYOUT.xlsx' as described in the video.
+	
 	b. Copy the resulting cells into 'template.txt' as described in video.
+	
 	c. Update title and buttons in 'template.txt' as described in video.
+	
 	d. Run 'trim.sh' to compress file into valid JSON format.
+	
 	e. Create new Divi Builder page in Wordpress, import 'trimmed.json', and publish
 
 ## Find & Replace RegEx
