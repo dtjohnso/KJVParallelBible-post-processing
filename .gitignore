@@ -1,3 +1,4 @@
 *.sublime-workspace
 *-CT.txt
 *-TR.txt
+backup_*/
